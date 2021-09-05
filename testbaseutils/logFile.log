@@ -1,0 +1,55 @@
+2021-08-23 00:23:14,411, INFO, test_setup, Title is:ProtoCommerce
+2021-08-23 00:23:15,903, INFO, test_setup, iphone X
+2021-08-23 00:23:16,062, INFO, test_setup, iphone X
+2021-08-23 00:23:16,346, INFO, test_setup, iphone X
+2021-08-23 00:23:16,424, INFO, test_setup, iphone X
+2021-08-23 00:23:22,298, INFO, test_setup, Alert Success Message is:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-08-23 00:23:30,376, INFO, test_fromSubmit, First Name is:Chaitanya Velpuri
+2021-08-23 00:23:30,561, INFO, test_fromSubmit, Email ID is:abc@abc.com
+2021-08-23 00:23:30,729, WARNING, test_fromSubmit, Its a Password, value can't be logged
+2021-08-23 00:23:31,184, INFO, test_fromSubmit, Success Message is:×
+Success! The Form has been submitted successfully!.
+2021-08-23 00:23:31,936, INFO, test_fromSubmit, First Name is:Ravalika Beeram
+2021-08-23 00:23:31,936, INFO, test_fromSubmit, First Name is:Ravalika Beeram
+2021-08-23 00:23:32,167, INFO, test_fromSubmit, Email ID is:rbr@abc.com
+2021-08-23 00:23:32,167, INFO, test_fromSubmit, Email ID is:rbr@abc.com
+2021-08-23 00:23:32,302, WARNING, test_fromSubmit, Its a Password, value can't be logged
+2021-08-23 00:23:32,302, WARNING, test_fromSubmit, Its a Password, value can't be logged
+2021-08-23 00:23:32,707, INFO, test_fromSubmit, Success Message is:×
+Success! The Form has been submitted successfully!.
+2021-08-23 00:23:32,707, INFO, test_fromSubmit, Success Message is:×
+Success! The Form has been submitted successfully!.
+2021-08-25 23:20:52,991, INFO, test_fromSubmit, First Name is:Ravalika
+2021-08-25 23:23:43,867, INFO, test_setup, Title is:ProtoCommerce
+2021-08-25 23:23:48,001, INFO, test_setup, iphone X
+2021-08-25 23:23:48,427, INFO, test_setup, iphone X
+2021-08-25 23:23:48,529, INFO, test_setup, iphone X
+2021-08-25 23:23:48,616, INFO, test_setup, iphone X
+2021-08-25 23:23:58,740, INFO, test_setup, Alert Success Message is:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-08-25 23:24:14,346, INFO, test_fromSubmit, First Name is:Ravalika
+2021-08-25 23:27:08,147, INFO, test_setup, Title is:ProtoCommerce
+2021-08-25 23:27:09,771, INFO, test_setup, iphone X
+2021-08-25 23:27:10,157, INFO, test_setup, iphone X
+2021-08-25 23:27:10,249, INFO, test_setup, iphone X
+2021-08-25 23:27:10,334, INFO, test_setup, iphone X
+2021-08-25 23:27:17,414, INFO, test_setup, Alert Success Message is:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-08-25 23:27:25,075, INFO, test_fromSubmit, First Name is:Ravalika Beeram
+2021-08-25 23:27:25,371, INFO, test_fromSubmit, Email ID is:rbr@email.com
+2021-08-25 23:27:25,518, WARNING, test_fromSubmit, Its a Password, value can't be logged
+2021-08-25 23:27:26,244, INFO, test_fromSubmit, Success Message is:×
+Success! The Form has been submitted successfully!.
+2021-08-25 23:27:48,200, INFO, test_setup, Title is:ProtoCommerce
+2021-08-25 23:27:49,749, INFO, test_setup, iphone X
+2021-08-25 23:27:50,253, INFO, test_setup, iphone X
+2021-08-25 23:27:50,379, INFO, test_setup, iphone X
+2021-08-25 23:27:50,473, INFO, test_setup, iphone X
+2021-08-25 23:27:56,993, INFO, test_setup, Alert Success Message is:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-08-25 23:28:07,225, INFO, test_fromSubmit, First Name is:Ravalika Beeram
+2021-08-25 23:28:07,449, INFO, test_fromSubmit, Email ID is:rbr@email.com
+2021-08-25 23:28:07,610, WARNING, test_fromSubmit, Its a Password, value can't be logged
+2021-08-25 23:28:08,093, INFO, test_fromSubmit, Success Message is:×
+Success! The Form has been submitted successfully!.
